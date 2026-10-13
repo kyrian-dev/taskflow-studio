@@ -1,42 +1,59 @@
-# .
 
-This template should help get you started developing with Vue 3 in Vite.
+# Taskflow Studio
 
-## Recommended IDE Setup
+A modern task and project management web application built with Vue.js.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## About the Project
 
-## Recommended Browser Setup
+Taskflow Studio is a web application designed to help users organize tasks, manage projects, and improve productivity.
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+The project demonstrates my frontend development skills and my ability to create responsive and interactive web interfaces.
 
-## Type Support for `.vue` Imports in TS
+## Technologies Used
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+- Vue.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
 
-## Customize configuration
+## Features
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Modern dashboard interface
+- Task and project organization
+- Responsive design
+- Interactive user interface
 
-## Project Setup
+## Installation
 
-```sh
+Clone the repository:
+
+```bash
+git clone https://github.com/kyrian-dev/taskflow-studio.git
+```
+
+Navigate into the project folder:
+
+```bash
+cd taskflow-studio
+```
+
+Install dependencies:
+
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+Start the development server:
 
-```sh
+```bash
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+## Developer
 
-```sh
-npm run build
-```
+**Kyrian**
+
+Junior Frontend Web Developer based in Germany.
+
+GitHub: https://github.com/kyrian-dev
