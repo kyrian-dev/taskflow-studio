@@ -24,6 +24,12 @@ The project demonstrates my frontend development skills and my ability to create
 - Responsive design
 - Interactive user interface
 
+
+## Application Screenshot
+
+![Taskflow Studio Dashboard](screenshots/taskflow-dashboard.png)
+
+
 ## Installation
 
 Clone the repository:
